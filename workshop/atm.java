@@ -1,6 +1,8 @@
+package workshop;
+
 import java.util.*;
 
-public class abc {
+public class atm {
 
   public static void main(String[] args) {
     int[] arr = { 200, -500, 1000, 200, 700 };
