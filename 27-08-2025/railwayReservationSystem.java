@@ -16,7 +16,9 @@ public class railwayReservationSystem {
     }
 
     int trainChoice;
+
     do {
+
       System.out.print("Select a train (1-" + trains.length + "): ");
       trainChoice = sc.nextInt();
     } while (trainChoice < 1 || trainChoice > trains.length);
