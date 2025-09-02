@@ -16,6 +16,7 @@ class MobilePhone {
     System.out.println("Model: " + model);
     System.out.println("Price: $" + price);
   }
+
 }
 
 public class handleMobilePhoneDetails {
